@@ -1,6 +1,6 @@
 # set up new android phone from old phone
 
-[![set up new android phone from old phone](get-detail.png)](https://github.com/windowscentrl/set.up.new.android.phone.from.old.phone)
+[![set up new android phone from old phone](get-detail.png)](https://icncomputer.com/set-up-new-android-phone-from-old-phone/)
 
 You can set up a new Android phone from scratch and start fresh if you want, but the Android setup process also allows you to copy data from your old phone. If your old phone is also an Android, you can restore your apps, settings, and other data directly from that phone or through a cloud backup. If you’re coming from an iPhone, you can install an app to transfer your data from the iPhone to the new Android phone.
 
